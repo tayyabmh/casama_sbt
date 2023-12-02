@@ -1,0 +1,17 @@
+{
+  "name": "aggregation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "casama_aggregate_view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/evm-utils": "^2.10.0",
+    "axios": "^1.2.1",
+    "moralis": "^2.10.0"
+  }
+}
